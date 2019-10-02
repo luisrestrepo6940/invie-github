@@ -1,4 +1,4 @@
 # invie
-Guitarras personalizadas
+Guitarras customizadas
 
 https://luisrestrepo6940.github.io/invie-github/
